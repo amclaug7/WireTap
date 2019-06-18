@@ -1,0 +1,14 @@
+How many unique people did Ernie talk to?
+6 people
+
+How many incoming calls where there?
+4
+
+Was there a time that most of the calls were made at?
+No, each individual time appeared twice, most calls were in the 5 o'clock hour
+
+What percentage of the calls were made after 5:00PM?
+12/16 or 75%
+
+How many references to “weed” where there? 
+2
